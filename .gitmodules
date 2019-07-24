@@ -1,3 +1,33 @@
 [submodule "3d_armor"]
 	path = 3d_armor
 	url = https://github.com/stujones11/minetest-3d_armor.git
+[submodule "ambience"]
+	path = ambience
+	url = https://notabug.org/TenPlus1/ambience.git
+[submodule "arctic_life"]
+	path = arctic_life
+	url = https://github.com/BlockySurvival/arctic_life.git
+[submodule "areasprotector"]
+	path = areasprotector
+	url = https://github.com/BlockySurvival/areasprotector.git
+[submodule "bakedclay"]
+	path = bakedclay
+	url = https://notabug.org/TenPlus1/bakedclay
+[submodule "basic_materials"]
+	path = basic_materials
+	url = https://gitlab.com/VanessaE/basic_materials.git
+[submodule "BBQ"]
+	path = BBQ
+	url = https://github.com/Grizzly-Adam/BBQ.git
+[submodule "biome_lib"]
+	path = biome_lib
+	url = https://gitlab.com/VanessaE/biome_lib.git
+[submodule "bls_custom"]
+	path = bls_custom
+	url = https://github.com/BlockySurvival/bls_custom.git
+[submodule "bonemeal"]
+	path = bonemeal
+	url = https://notabug.org/TenPlus1/bonemeal
+[submodule "boost_cart"]
+	path = boost_cart
+	url = https://github.com/SmallJoker/boost_cart.git
