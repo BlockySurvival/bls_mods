@@ -31,3 +31,285 @@
 [submodule "boost_cart"]
 	path = boost_cart
 	url = https://github.com/SmallJoker/boost_cart.git
+[submodule "bowlingball"]
+	path = bowlingball
+	url = https://github.com/BlockySurvival/bowlingball.git
+[submodule "bridger"]
+	path = bridger
+	url = https://github.com/v-rob/bridger.git
+[submodule "caverealms"]
+	path = caverealms
+	url = https://github.com/HeroOfTheWinds/minetest-caverealms.git
+[submodule "cblocks"]
+	path = cblocks
+	url = https://notabug.org/TenPlus1/cblocks.git
+[submodule "ChatCmdBuilder"]
+	path = ChatCmdBuilder
+	url = https://github.com/rubenwardy/ChatCmdBuilder.git
+[submodule "chesttools"]
+	path = chesttools
+	url = https://github.com/Sokomine/chesttools.git
+[submodule "cloaking"]
+	path = cloaking
+	url = https://github.com/luk3yx/minetest-cloaking.git
+[submodule "cottages"]
+	path = cottages
+	url = https://github.com/BlockySurvival/cottages.git
+[submodule "cozy"]
+	path = cozy
+	url = https://github.com/minetest-mods/cozy.git
+[submodule "currency"]
+	path = currency
+	url = https://gitlab.com/VanessaE/currency.git
+[submodule "digilines"]
+	path = digilines
+	url = https://github.com/minetest-mods/digilines.git
+[submodule "digistuff"]
+	path = digistuff
+	url = https://cheapiesystems.com/git/digistuff
+[submodule "digiterms"]
+	path = digiterms
+	url = https://github.com/pyrollo/digiterms.git
+[submodule "display_modpack"]
+	path = display_modpack
+	url = https://github.com/BlockySurvival/display_modpack.git
+[submodule "extra"]
+	path = extra
+	url = https://github.com/BlockySurvival/extra.git
+[submodule "facade"]
+	path = facade
+	url = https://github.com/h-v-smacker/facade.git
+[submodule "farming"]
+	path = farming
+	url = https://notabug.org/TenPlus1/farming.git
+[submodule "glass_stained"]
+	path = glass_stained
+	url = https://github.com/v-rob/glass_stained.git
+[submodule "goldtools"]
+	path = goldtools
+	url = https://github.com/BlockySurvival/goldtools.git
+[submodule "hangglider"]
+	path = hangglider
+	url = https://github.com/BlockySurvival/hangglider.git
+[submodule "holidays"]
+	path = holidays
+	url = https://github.com/BlockySurvival/holidays.git
+[submodule "homedecor_modpack"]
+	path = homedecor_modpack
+	url = https://gitlab.com/VanessaE/homedecor_modpack.git
+[submodule "hot_air_balloons"]
+	path = hot_air_balloons
+	url = https://github.com/BlockySurvival/hot_air_balloons.git
+[submodule "instruments_pack"]
+	path = instruments_pack
+	url = https://github.com/BlockySurvival/instruments_pack.git
+[submodule "intllib"]
+	path = intllib
+	url = https://github.com/minetest-mods/intllib.git
+[submodule "invhack"]
+	path = invhack
+	url = https://github.com/salahzar/minetest-invhack.git
+[submodule "irc"]
+	path = irc
+	url = https://github.com/BlockySurvival/irc.git
+[submodule "irc2"]
+	path = irc2
+	url = https://github.com/BlockySurvival/irc2.git
+[submodule "areas"]
+	path = areas
+	url = https://github.com/BlockySurvival/areas.git
+[submodule "irc_commands"]
+	path = irc_commands
+	url = https://github.com/minetest-mods/irc_commands.git
+[submodule "irc_commands2"]
+	path = irc_commands2
+	url = https://github.com/BlockySurvival/irc_commands2.git
+[submodule "jails"]
+	path = jails
+	url = https://github.com/ShadowNinja/jails.git
+[submodule "led_marquee"]
+	path = led_marquee
+	url = https://gitlab.com/VanessaE/led_marquee.git
+[submodule "letters"]
+	path = letters
+	url = https://github.com/minetest-mods/letters.git
+[submodule "locked_travelnet"]
+	path = locked_travelnet
+	url = https://github.com/BlockySurvival/locked_travelnet.git
+[submodule "locks"]
+	path = locks
+	url = https://github.com/BlockySurvival/locks.git
+[submodule "lurkcoin"]
+	path = lurkcoin
+	url = https://git.minetest.land/luk3yx/lurkcoin.git
+[submodule "mailbox"]
+	path = mailbox
+	url = https://github.com/BlockySurvival/mailbox.git
+[submodule "mapfix"]
+	path = mapfix
+	url = https://github.com/minetest-mods/mapfix.git
+[submodule "maptools"]
+	path = maptools
+	url = https://github.com/BlockySurvival/maptools.git
+[submodule "markers"]
+	path = markers
+	url = https://github.com/Sokomine/markers.git
+[submodule "matrix"]
+	path = matrix
+	url = https://github.com/entuland/lua-matrix.git
+[submodule "memorandum"]
+	path = memorandum
+	url = https://github.com/LeMagnesium/memorandum.git
+[submodule "mesecons"]
+	path = mesecons
+	url = https://github.com/minetest-mods/mesecons.git
+[submodule "mob_horse"]
+	path = mob_horse
+	url = https://notabug.org/TenPlus1/mob_horse
+[submodule "mobs_animal"]
+	path = mobs_animal
+	url = https://notabug.org/TenPlus1/mobs_animal
+[submodule "mobs_redo"]
+	path = mobs_redo
+	url = https://notabug.org/TenPlus1/mobs_redo
+[submodule "mobs_sky"]
+	path = mobs_sky
+	url = https://github.com/BlockySurvival/mobs_sky.git
+[submodule "mobs_water"]
+	path = mobs_water
+	url = https://github.com/R-0ne/mobs_water.git
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks.git
+[submodule "morelights"]
+	path = morelights
+	url = https://github.com/random-geek/morelights.git
+[submodule "moreores"]
+	path = moreores
+	url = https://github.com/minetest-mods/moreores.git
+[submodule "moreplants"]
+	path = moreplants
+	url = https://github.com/sys4-fr/moreplants.git
+[submodule "moretrees"]
+	path = moretrees
+	url = https://gitlab.com/VanessaE/moretrees.git
+[submodule "mydoors"]
+	path = mydoors
+	url = https://github.com/minetest-mods/mydoors.git
+[submodule "nether"]
+	path = nether
+	url = https://github.com/BlockySurvival/nether.git
+[submodule "nsspf"]
+	path = nsspf
+	url = https://github.com/BlockySurvival/nsspf.git
+[submodule "other_worlds"]
+	path = other_worlds
+	url = https://github.com/Ezhh/other_worlds.git
+[submodule "plasticbox"]
+	path = plasticbox
+	url = https://cheapiesystems.com/git/plasticbox/
+[submodule "playeranim"]
+	path = playeranim
+	url = https://github.com/minetest-mods/playeranim.git
+[submodule "player_monoids"]
+	path = player_monoids
+	url = https://github.com/minetest-mods/player_monoids.git
+[submodule "pmview"]
+	path = pmview
+	url = https://github.com/BlockySurvival/pmview.git
+[submodule "priv_roles"]
+	path = priv_roles
+	url = https://github.com/BlockySurvival/priv_roles.git
+[submodule "quartz"]
+	path = quartz
+	url = https://github.com/minetest-mods/quartz.git
+[submodule "replacer"]
+	path = replacer
+	url = https://github.com/HybridDog/replacer.git
+[submodule "REPOS/terumet"]
+	path = REPOS/terumet
+	url = https://github.com/Terumoc/terumet.git
+[submodule "rhotator"]
+	path = rhotator
+	url = https://github.com/entuland/rhotator.git
+[submodule "ropes"]
+	path = ropes
+	url = https://github.com/minetest-mods/ropes.git
+[submodule "sban"]
+	path = sban
+	url = https://github.com/shivajiva101/sban.git
+[submodule "scifi_nodes"]
+	path = scifi_nodes
+	url = https://github.com/D00Med/scifi_nodes.git
+[submodule "skinsdb"]
+	path = skinsdb
+	url = https://github.com/minetest-mods/skinsdb.git
+[submodule "smartrenting"]
+	path = smartrenting
+	url = https://github.com/AiTechEye/smartrenting.git
+[submodule "smartshop"]
+	path = smartshop
+	url = https://github.com/AiTechEye/smartshop.git
+[submodule "snippets"]
+	path = snippets
+	url = https://git.minetest.land/luk3yx/snippets.git
+[submodule "spawn_command"]
+	path = spawn_command
+	url = https://github.com/BlockySurvival/spawn_command.git
+[submodule "sponge"]
+	path = sponge
+	url = https://github.com/BlockySurvival/sponge.git
+[submodule "stamina"]
+	path = stamina
+	url = https://github.com/obl3pplifp/minetest-stamina.git
+[submodule "streetlamps"]
+	path = streetlamps
+	url = https://github.com/BlockySurvival/streetlamps.git
+[submodule "streetsconcrete"]
+	path = streetsconcrete
+	url = https://github.com/BlockySurvival/streetsconcrete.git
+[submodule "streetsmod"]
+	path = streetsmod
+	url = https://github.com/BlockySurvival/streetsmod.git
+[submodule "techpack"]
+	path = techpack
+	url = https://github.com/BlockySurvival/techpack.git
+[submodule "teleport_request"]
+	path = teleport_request
+	url = https://github.com/ChaosWormz/teleport-request.git
+[submodule "titanium"]
+	path = titanium
+	url = https://github.com/BlockySurvival/titanium.git
+[submodule "travelnet"]
+	path = travelnet
+	url = https://github.com/BlockySurvival/travelnet.git
+[submodule "tubelib2"]
+	path = tubelib2
+	url = https://github.com/joe7575/tubelib2.git
+[submodule "unifieddyes"]
+	path = unifieddyes
+	url = https://gitlab.com/VanessaE/unifieddyes.git
+[submodule "unified_inventory"]
+	path = unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory.git
+[submodule "verbana"]
+	path = verbana
+	url = https://github.com/obl3pplifp/minetest-verbana.git
+[submodule "verification"]
+	path = verification
+	url = https://github.com/BlockySurvival/verification.git
+[submodule "waterfalls"]
+	path = waterfalls
+	url = https://github.com/ExeVirus/waterfalls.git
+[submodule "wielded_light"]
+	path = wielded_light
+	url = https://github.com/minetest-mods/wielded_light.git
+[submodule "worldedit"]
+	path = worldedit
+	url = https://github.com/Uberi/Minetest-WorldEdit.git
+[submodule "xdecor"]
+	path = xdecor
+	url = https://github.com/minetest-mods/xdecor.git
+[submodule "technic"]
+	path = technic
+	url = https://github.com/minetest-mods/technic.git
