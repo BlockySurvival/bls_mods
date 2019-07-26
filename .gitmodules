@@ -227,7 +227,7 @@
 	path = replacer
 	url = https://github.com/HybridDog/replacer.git
 [submodule "REPOS/terumet"]
-	path = _repos_/terumet
+	path = REPOS/terumet
 	url = https://github.com/Terumoc/terumet.git
 [submodule "rhotator"]
 	path = rhotator
