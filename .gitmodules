@@ -17,7 +17,7 @@
 	path = basic_materials
 	url = https://gitlab.com/VanessaE/basic_materials.git
 [submodule "BBQ"]
-	path = BBQ
+	path = bbq
 	url = https://github.com/Grizzly-Adam/BBQ.git
 [submodule "biome_lib"]
 	path = biome_lib
