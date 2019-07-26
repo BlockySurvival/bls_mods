@@ -159,7 +159,7 @@
 	url = https://github.com/entuland/lua-matrix.git
 [submodule "memorandum"]
 	path = memorandum
-	url = https://github.com/LeMagnesium/memorandum.git
+	url = https://github.com/BlockySurvival/memorandum.git
 [submodule "mesecons"]
 	path = mesecons
 	url = https://github.com/minetest-mods/mesecons.git
@@ -227,7 +227,7 @@
 	path = replacer
 	url = https://github.com/HybridDog/replacer.git
 [submodule "REPOS/terumet"]
-	path = REPOS/terumet
+	path = _repos_/terumet
 	url = https://github.com/Terumoc/terumet.git
 [submodule "rhotator"]
 	path = rhotator
