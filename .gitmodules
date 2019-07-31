@@ -261,7 +261,7 @@
 	url = https://github.com/BlockySurvival/sponge.git
 [submodule "stamina"]
 	path = stamina
-	url = https://github.com/fluxionary/minetest-stamina.git
+	url = https://github.com/minetest-mods/stamina.git
 [submodule "streetlamps"]
 	path = streetlamps
 	url = https://github.com/BlockySurvival/streetlamps.git
