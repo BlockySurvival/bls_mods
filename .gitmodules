@@ -313,3 +313,6 @@
 [submodule "technic"]
 	path = technic
 	url = https://github.com/minetest-mods/technic.git
+[submodule "mobs_more_animals"]
+	path = mobs_more_animals
+	url = https://github.com/BlockySurvival/mobs_more_animals.git
