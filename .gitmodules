@@ -4,9 +4,6 @@
 [submodule "ambience"]
 	path = ambience
 	url = https://notabug.org/TenPlus1/ambience.git
-[submodule "arctic_life"]
-	path = arctic_life
-	url = https://github.com/BlockySurvival/arctic_life.git
 [submodule "areasprotector"]
 	path = areasprotector
 	url = https://github.com/BlockySurvival/areasprotector.git
@@ -172,12 +169,6 @@
 [submodule "mobs_redo"]
 	path = mobs_redo
 	url = https://notabug.org/TenPlus1/mobs_redo
-[submodule "mobs_sky"]
-	path = mobs_sky
-	url = https://github.com/BlockySurvival/mobs_sky.git
-[submodule "mobs_water"]
-	path = mobs_water
-	url = https://github.com/R-0ne/mobs_water.git
 [submodule "moreblocks"]
 	path = moreblocks
 	url = https://github.com/minetest-mods/moreblocks.git
@@ -313,6 +304,6 @@
 [submodule "technic"]
 	path = technic
 	url = https://github.com/minetest-mods/technic.git
-[submodule "mobs_more_animals"]
-	path = mobs_more_animals
-	url = https://github.com/BlockySurvival/mobs_more_animals.git
+[submodule "mobs_animal_pack"]
+	path = mobs_animal_pack
+	url = https://github.com/BlockySurvival/mobs_animal_pack.git
