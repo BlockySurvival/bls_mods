@@ -310,3 +310,6 @@
 [submodule "desert_life"]
 	path = desert_life
 	url = https://github.com/NathanSalapat/desert_life.git
+[submodule "server_news"]
+	path = server_news
+	url = https://github.com/Ezhh/server_news.git
