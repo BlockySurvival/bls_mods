@@ -267,7 +267,7 @@
 	url = https://github.com/BlockySurvival/techpack.git
 [submodule "teleport_request"]
 	path = teleport_request
-	url = https://github.com/ChaosWormz/teleport-request.git
+	url = https://github.com/BlockySurvival/teleport-request.git
 [submodule "titanium"]
 	path = titanium
 	url = https://github.com/BlockySurvival/titanium.git
