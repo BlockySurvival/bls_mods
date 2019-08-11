@@ -313,3 +313,6 @@
 [submodule "server_news"]
 	path = server_news
 	url = https://github.com/Ezhh/server_news.git
+[submodule "staff"]
+	path = staff
+	url = https://github.com/BlockySurvival/staff.git
