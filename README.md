@@ -1,5 +1,8 @@
 Mod of submodules of mods used on Blocky Survival
 
+Note: It is preferable to *not* make updates directly on the Blocky Survival server, and instead only
+pull in updates made elsewhere. Emergencies happen though, and cleaning things up isn't too hard.
+
 Installing Locally
 ==================
 
@@ -18,8 +21,6 @@ Updating your bls\_mods repo
  
 Setting up your local bls\_mods repo to push updates
 ====================================================
-
-Note: It is preferable to *not* make updates directly on the Blocky Survival server.
 
 1. `git remote add github git@github.com:BlockySurvival/bls_mods.git`
 
@@ -49,6 +50,8 @@ Adding a new subrepo
 Making changes inside a subrepo
 ===============================
 
+This is only for making changes to a repo or fork that you have write permissions to.
+
 1. `cd subrepo`
 2. e.g. `git remote add github git@github.com:BlockySurvival/....`
 3. make changes
@@ -71,8 +74,8 @@ Pointing a repo at a different fork
 6. `git commit -m 'pointed module_name at fork ...'`
 7. `git push github master`
 
-Point a repo at a different branch
-==================================
+Pointing a repo at a different branch
+=====================================
 
 1. `git submodule set-branch -b branch_name module_name`
 2. `git add .gitmodules module_name`
