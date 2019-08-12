@@ -11,7 +11,7 @@ Updating your mods repo
 =======================
 
 1. `git pull`
-2. `git submodule sync`
+2. `git submodule sync --recursive`
 3. `git submodule update --recursive --init`
  
 Setting up your local mods repo to push updates
@@ -57,3 +57,22 @@ Making changes inside a subrepo
 8. `git add subrepo`
 9. `git commit -m 'updated subrepo'`
 10. `git push github master`
+
+Pointing a repo at a different fork
+===================================
+
+1. `vi .gitmodules`
+2. find and replace the appropriate URL for the submodule
+3. `git submodule sync --recursive`
+4. `git submodule update --recursive --remote MODULE_NAME`
+5. `git add .gitmodules MODULE_NAME`
+6. `git commit -m 'pointed module_name at fork ...'`
+7. `git push github master`
+
+Point a repo at a different branch
+==================================
+
+1. `git submodule set-branch -b branch_name module_name`
+2. `git add .gitmodules module_name`
+3. `git commit -m 'set module_name to track branch_name'`
+4. `git push github master`
