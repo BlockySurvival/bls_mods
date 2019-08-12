@@ -1,21 +1,23 @@
 Mod of submodules of mods used on Blocky Survival
 
-Installing
-==========
+Installing Locally
+==================
 
 1. `git clone https://github.com/BlockySurvival/bls_mods.git`
 2. `cd bls_mods`
 3. `git submodule update --init --recursive`
 
-Updating your mods repo
-=======================
+You may then wish to move the bls\_mods folder to `~/.minetest/mods` or `~/.minetest/worlds/NAME/worldmods` for testing.
+
+Updating your bls\_mods repo
+============================
 
 1. `git pull`
 2. `git submodule sync --recursive`
 3. `git submodule update --recursive --init`
  
-Setting up your local mods repo to push updates
-===============================================
+Setting up your local bls\_mods repo to push updates
+====================================================
 
 Note: It is preferable to *not* make updates directly on the Blocky Survival server.
 
