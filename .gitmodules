@@ -319,3 +319,6 @@
 [submodule "more_monoids"]
 	path = more_monoids
 	url = https://github.com/BlockySurvival/more_monoids.git
+[submodule "killbutton"]
+	path = killbutton
+	url = https://gitlab.com/Niwla23/killbutton.git
