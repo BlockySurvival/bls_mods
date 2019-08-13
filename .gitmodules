@@ -322,3 +322,6 @@
 [submodule "killbutton"]
 	path = killbutton
 	url = https://gitlab.com/Niwla23/killbutton.git
+[submodule "bike"]
+	path = bike
+	url = https://gitlab.com/h2mm/bike.git
