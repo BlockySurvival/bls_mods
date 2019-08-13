@@ -316,3 +316,6 @@
 [submodule "staff"]
 	path = staff
 	url = https://github.com/BlockySurvival/staff.git
+[submodule "more_monoids"]
+	path = more_monoids
+	url = https://github.com/BlockySurvival/more_monoids.git
