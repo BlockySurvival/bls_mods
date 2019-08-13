@@ -54,7 +54,7 @@
 	url = https://github.com/BlockySurvival/cottages.git
 [submodule "cozy"]
 	path = cozy
-	url = https://github.com/minetest-mods/cozy.git
+	url = https://github.com/BlockySurvival/cozy.git
 [submodule "currency"]
 	path = currency
 	url = https://gitlab.com/VanessaE/currency.git
