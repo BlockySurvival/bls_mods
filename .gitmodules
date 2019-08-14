@@ -325,3 +325,6 @@
 [submodule "bike"]
 	path = bike
 	url = https://gitlab.com/h2mm/bike.git
+[submodule "redtrees"]
+	path = redtrees
+	url = https://github.com/fluxionary/redtrees.git
