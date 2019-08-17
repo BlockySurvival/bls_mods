@@ -328,3 +328,6 @@
 [submodule "redtrees"]
 	path = redtrees
 	url = https://github.com/fluxionary/redtrees.git
+[submodule "poshud"]
+	path = poshud
+	url = https://github.com/orwell96/poshud.git
