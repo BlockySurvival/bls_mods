@@ -226,9 +226,6 @@
 [submodule "ropes"]
 	path = ropes
 	url = https://github.com/minetest-mods/ropes.git
-[submodule "sban"]
-	path = sban
-	url = https://github.com/shivajiva101/sban.git
 [submodule "scifi_nodes"]
 	path = scifi_nodes
 	url = https://github.com/D00Med/scifi_nodes.git
@@ -286,9 +283,6 @@
 [submodule "verbana"]
 	path = verbana
 	url = https://github.com/fluxionary/minetest-verbana.git
-[submodule "verification"]
-	path = verification
-	url = https://github.com/BlockySurvival/verification.git
 [submodule "waterfalls"]
 	path = waterfalls
 	url = https://github.com/ExeVirus/waterfalls.git
