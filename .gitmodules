@@ -237,7 +237,7 @@
 	url = https://github.com/AiTechEye/smartrenting.git
 [submodule "smartshop"]
 	path = smartshop
-	url = https://github.com/AiTechEye/smartshop.git
+	url = https://github.com/fluxionary/smartshop.git
 [submodule "snippets"]
 	path = snippets
 	url = https://git.minetest.land/luk3yx/snippets.git
