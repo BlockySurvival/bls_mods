@@ -321,7 +321,7 @@
 	url = https://gitlab.com/h2mm/bike.git
 [submodule "redtrees"]
 	path = redtrees
-	url = https://github.com/fluxionary/redtrees.git
+	url = https://github.com/BlockySurvival/redtrees.git
 [submodule "poshud"]
 	path = poshud
 	url = https://github.com/orwell96/poshud.git
