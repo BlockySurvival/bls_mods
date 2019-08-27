@@ -328,3 +328,6 @@
 [submodule "MoreMesecons"]
 	path = more_mesecons
 	url = https://github.com/minetest-mods/MoreMesecons.git
+[submodule "woodcutting"]
+	path = woodcutting
+	url = https://github.com/minetest-mods/woodcutting.git
