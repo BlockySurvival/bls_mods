@@ -325,3 +325,9 @@
 [submodule "poshud"]
 	path = poshud
 	url = https://github.com/orwell96/poshud.git
+[submodule "MoreMesecons"]
+	path = more_mesecons
+	url = https://github.com/minetest-mods/MoreMesecons.git
+[submodule "woodcutting"]
+	path = woodcutting
+	url = https://github.com/minetest-mods/woodcutting.git
