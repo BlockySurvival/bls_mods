@@ -75,7 +75,7 @@
 	url = https://github.com/BlockySurvival/extra.git
 [submodule "facade"]
 	path = facade
-	url = https://github.com/h-v-smacker/facade.git
+	url = https://github.com/BlockySurvival/facade.git
 [submodule "farming"]
 	path = farming
 	url = https://notabug.org/TenPlus1/farming.git
