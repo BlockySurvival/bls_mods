@@ -336,5 +336,4 @@
 	url = https://github.com/jogag/digiline-stuff.git
 [submodule "unified_inventory_plus"]
 	path = unified_inventory_plus
-	url = https://github.com/fluxionary/minetest-unified_inventory_plus.git
-	branch = stamina_integration
+	url = https://github.com/bousket/unified_inventory_plus.git
