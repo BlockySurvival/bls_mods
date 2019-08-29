@@ -331,3 +331,6 @@
 [submodule "woodcutting"]
 	path = woodcutting
 	url = https://github.com/minetest-mods/woodcutting.git
+[submodule "digiline-stuff"]
+	path = digiline_stuff
+	url = https://github.com/jogag/digiline-stuff.git
