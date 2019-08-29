@@ -273,7 +273,7 @@
 	url = https://github.com/BlockySurvival/travelnet.git
 [submodule "tubelib2"]
 	path = tubelib2
-	url = https://github.com/joe7575/tubelib2.git
+	url = https://github.com/BlockySurvival/tubelib2.git
 [submodule "unifieddyes"]
 	path = unifieddyes
 	url = https://gitlab.com/VanessaE/unifieddyes.git
