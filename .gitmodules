@@ -297,7 +297,7 @@
 	url = https://github.com/minetest-mods/xdecor.git
 [submodule "technic"]
 	path = technic
-	url = https://github.com/minetest-mods/technic.git
+	url = https://github.com/BlockySurvival/technic.git
 [submodule "mobs_animal_pack"]
 	path = mobs_animal_pack
 	url = https://github.com/BlockySurvival/mobs_animal_pack.git
