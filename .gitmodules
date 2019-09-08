@@ -337,3 +337,6 @@
 [submodule "unified_inventory_plus"]
 	path = unified_inventory_plus
 	url = https://github.com/bousket/unified_inventory_plus.git
+[submodule "cucina_vegana"]
+	path = cucina_vegana
+	url = https://github.com/acmgit/cucina_vegana.git
