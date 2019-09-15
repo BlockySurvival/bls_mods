@@ -340,3 +340,6 @@
 [submodule "cucina_vegana"]
 	path = cucina_vegana
 	url = https://github.com/acmgit/cucina_vegana.git
+[submodule "unifiedbricks"]
+	path = unifiedbricks
+	url = https://github.com/minetest-mods/unifiedbricks.git
