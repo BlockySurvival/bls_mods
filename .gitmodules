@@ -349,3 +349,6 @@
 [submodule "plantlife_modpack"]
 	path = plantlife_modpack
 	url = https://gitlab.com/VanessaE/plantlife_modpack.git
+[submodule "soccer"]
+	path = soccer
+	url = https://github.com/kaeza/minetest-soccer
