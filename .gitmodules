@@ -355,3 +355,6 @@
 [submodule "artdeco"]
 	path = artdeco
 	url = https://github.com/BlockySurvival/artdeco.git
+[submodule "minetest_orienteering"]
+	path = minetest_orienteering
+	url = https://repo.or.cz/minetest_orienteering.git
