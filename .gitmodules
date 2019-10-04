@@ -358,3 +358,6 @@
 [submodule "minetest_orienteering"]
 	path = minetest_orienteering
 	url = https://repo.or.cz/minetest_orienteering.git
+[submodule "rotation"]
+	path = rotation
+	url = https://github.com/BlockySurvival/rotation.git
