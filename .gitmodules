@@ -367,3 +367,6 @@
 [submodule "hook"]
 	path = hook
 	url = https://github.com/fluxionary/hook.git
+[submodule "cool_trees"]
+	path = cool_trees
+	url = https://github.com/runsy/cool_trees.git
