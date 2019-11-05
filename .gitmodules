@@ -180,7 +180,7 @@
 	url = https://github.com/minetest-mods/moreores.git
 [submodule "moreplants"]
 	path = moreplants
-	url = https://github.com/sys4-fr/moreplants.git
+	url = https://github.com/fluxionary/minetest-moreplants.git
 [submodule "moretrees"]
 	path = moretrees
 	url = https://gitlab.com/VanessaE/moretrees.git
