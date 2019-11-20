@@ -369,4 +369,4 @@
 	url = https://github.com/fluxionary/hook.git
 [submodule "cool_trees"]
 	path = cool_trees
-	url = https://github.com/runsy/cool_trees.git
+	url = https://github.com/BlockySurvival/cool_trees.git
