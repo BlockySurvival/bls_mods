@@ -357,7 +357,7 @@
 	url = https://github.com/BlockySurvival/artdeco.git
 [submodule "minetest_orienteering"]
 	path = orienteering
-	url = https://repo.or.cz/minetest_orienteering.git
+	url = https://github.com/BlockySurvival/orienteering.git
 [submodule "rotation"]
 	path = rotation
 	url = https://github.com/BlockySurvival/rotation.git
