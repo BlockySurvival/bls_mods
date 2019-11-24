@@ -364,3 +364,6 @@
 [submodule "cool_trees"]
 	path = cool_trees
 	url = https://github.com/BlockySurvival/cool_trees.git
+[submodule "ingots"]
+	path = ingots
+	url = https://github.com/BlockySurvival/ingots.git
