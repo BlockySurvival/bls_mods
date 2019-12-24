@@ -367,3 +367,6 @@
 [submodule "ingots"]
 	path = ingots
 	url = https://github.com/BlockySurvival/ingots.git
+[submodule "ham_radio"]
+	path = ham_radio
+	url = https://github.com/technix/ham_radio
