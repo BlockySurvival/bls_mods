@@ -303,7 +303,7 @@
 	url = https://github.com/BlockySurvival/mobs_animal_pack.git
 [submodule "desert_life"]
 	path = desert_life
-	url = https://github.com/NathanSalapat/desert_life.git
+	url = https://github.com/BlockySurvival/desert_life.git
 [submodule "server_news"]
 	path = server_news
 	url = https://github.com/Ezhh/server_news.git
