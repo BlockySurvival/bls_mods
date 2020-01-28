@@ -168,7 +168,7 @@
 	url = https://notabug.org/TenPlus1/mobs_animal
 [submodule "mobs_redo"]
 	path = mobs_redo
-	url = https://notabug.org/TenPlus1/mobs_redo
+	url = https://github.com/BlockySurvival/mobs_redo.git
 [submodule "moreblocks"]
 	path = moreblocks
 	url = https://github.com/BlockySurvival/moreblocks.git
