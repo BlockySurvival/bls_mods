@@ -355,9 +355,6 @@
 [submodule "rotation"]
 	path = rotation
 	url = https://github.com/BlockySurvival/rotation.git
-[submodule "minetest-ui_trashcan"]
-	path = ui_trashcan
-	url = https://github.com/fluxionary/minetest-ui_trashcan.git
 [submodule "hook"]
 	path = hook
 	url = https://github.com/fluxionary/hook.git
