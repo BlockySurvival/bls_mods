@@ -364,3 +364,6 @@
 [submodule "ingots"]
 	path = ingots
 	url = https://github.com/BlockySurvival/ingots.git
+[submodule "missions"]
+	path = missions
+	url = https://github.com/mt-mods/missions.git
