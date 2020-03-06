@@ -364,3 +364,6 @@
 [submodule "ingots"]
 	path = ingots
 	url = https://github.com/BlockySurvival/ingots.git
+[submodule "epic"]
+	path = epic
+	url = https://github.com/damocles-minetest/epic.git
