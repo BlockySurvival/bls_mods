@@ -195,7 +195,7 @@
 	url = https://github.com/BlockySurvival/nsspf.git
 [submodule "other_worlds"]
 	path = other_worlds
-	url = https://github.com/Ezhh/other_worlds.git
+	url = https://github.com/BlockySurvival/other_worlds.git
 [submodule "plasticbox"]
 	path = plasticbox
 	url = https://cheapiesystems.com/git/plasticbox/
