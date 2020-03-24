@@ -345,7 +345,7 @@
 	url = https://github.com/kaeza/minetest-soccer
 [submodule "invsaw"]
 	path = invsaw
-	url = https://cheapiesystems.com/git/invsaw
+	url = https://github.com/BlockySurvival/invsaw.git
 [submodule "artdeco"]
 	path = artdeco
 	url = https://github.com/BlockySurvival/artdeco.git
