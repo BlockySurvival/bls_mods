@@ -367,3 +367,6 @@
 [submodule "epic"]
 	path = epic
 	url = https://github.com/damocles-minetest/epic.git
+[submodule "real_suffocation"]
+	path = real_suffocation
+	url = https://github.com/BlockySurvival/real_suffocation.git
