@@ -232,9 +232,6 @@
 [submodule "skinsdb"]
 	path = skinsdb
 	url = https://github.com/minetest-mods/skinsdb.git
-[submodule "smartrenting"]
-	path = smartrenting
-	url = https://github.com/AiTechEye/smartrenting.git
 [submodule "smartshop"]
 	path = smartshop
 	url = https://github.com/fluxionary/minetest-smartshop.git
