@@ -1,6 +1,6 @@
 [submodule "3d_armor"]
 	path = 3d_armor
-	url = https://github.com/stujones11/minetest-3d_armor.git
+	url = https://github.com/minetest-mods/3d_armor.git
 [submodule "ambience"]
 	path = ambience
 	url = https://notabug.org/TenPlus1/ambience.git
