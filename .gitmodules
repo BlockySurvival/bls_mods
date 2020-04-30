@@ -228,7 +228,7 @@
 	url = https://github.com/minetest-mods/ropes.git
 [submodule "scifi_nodes"]
 	path = scifi_nodes
-	url = https://github.com/fluxionary/minetest-scifi_nodes.git
+	url = https://github.com/D00Med/scifi_nodes.git
 [submodule "skinsdb"]
 	path = skinsdb
 	url = https://github.com/minetest-mods/skinsdb.git
