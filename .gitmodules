@@ -330,7 +330,7 @@
 	url = https://github.com/bousket/unified_inventory_plus.git
 [submodule "cucina_vegana"]
 	path = cucina_vegana
-	url = https://github.com/acmgit/cucina_vegana.git
+	url = https://github.com/fluxionary/minetest-cucina_vegana.git
 [submodule "unifiedbricks"]
 	path = unifiedbricks
 	url = https://github.com/minetest-mods/unifiedbricks.git
