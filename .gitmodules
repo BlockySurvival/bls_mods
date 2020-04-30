@@ -36,7 +36,7 @@
 	url = https://github.com/v-rob/bridger.git
 [submodule "caverealms"]
 	path = caverealms
-	url = https://github.com/HeroOfTheWinds/minetest-caverealms.git
+	url = https://github.com/FaceDeer/minetest-caverealms.git
 [submodule "cblocks"]
 	path = cblocks
 	url = https://notabug.org/TenPlus1/cblocks.git
