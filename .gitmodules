@@ -364,3 +364,6 @@
 [submodule "real_suffocation"]
 	path = real_suffocation
 	url = https://github.com/BlockySurvival/real_suffocation.git
+[submodule "minetest-caverealms"]
+	path = minetest-caverealms
+	url = https://github.com/HeroOfTheWinds/minetest-caverealms.git
