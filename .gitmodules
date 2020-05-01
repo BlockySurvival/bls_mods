@@ -367,3 +367,9 @@
 [submodule "real_suffocation"]
 	path = real_suffocation
 	url = https://github.com/BlockySurvival/real_suffocation.git
+[submodule "subterrane"]
+	path = subterrane
+	url = https://github.com/minetest-mods/subterrane
+[submodule "mapgen_helper"]
+	path = mapgen_helper
+	url = https://github.com/minetest-mods/mapgen_helper.git
