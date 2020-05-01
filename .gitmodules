@@ -75,7 +75,7 @@
 	url = https://github.com/BlockySurvival/facade.git
 [submodule "farming"]
 	path = farming
-	url = https://notabug.org/TenPlus1/farming.git
+	url = https://notabug.org/fluxionary/minetest-farming.git
 [submodule "glass_stained"]
 	path = glass_stained
 	url = https://github.com/v-rob/glass_stained.git
