@@ -34,9 +34,6 @@
 [submodule "bridger"]
 	path = bridger
 	url = https://github.com/v-rob/bridger.git
-[submodule "caverealms"]
-	path = caverealms
-	url = https://github.com/FaceDeer/minetest-caverealms.git
 [submodule "cblocks"]
 	path = cblocks
 	url = https://notabug.org/TenPlus1/cblocks.git
@@ -367,9 +364,3 @@
 [submodule "real_suffocation"]
 	path = real_suffocation
 	url = https://github.com/BlockySurvival/real_suffocation.git
-[submodule "subterrane"]
-	path = subterrane
-	url = https://github.com/minetest-mods/subterrane
-[submodule "mapgen_helper"]
-	path = mapgen_helper
-	url = https://github.com/minetest-mods/mapgen_helper.git
