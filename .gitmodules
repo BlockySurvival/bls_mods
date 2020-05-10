@@ -54,7 +54,7 @@
 	url = https://github.com/minetest-mods/cozy.git
 [submodule "currency"]
 	path = currency
-	url = https://gitlab.com/VanessaE/currency.git
+	url = https://gitlab.com/fluxionary/currency.git
 [submodule "digilines"]
 	path = digilines
 	url = https://github.com/minetest-mods/digilines.git
