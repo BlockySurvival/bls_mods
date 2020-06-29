@@ -10,7 +10,7 @@ Installing Locally
 2. `cd bls_mods`
 3. `git submodule update --init --recursive`
 
-You may then wish to move the bls\_mods folder to `~/.minetest/mods` or `~/.minetest/worlds/NAME/worldmods` for testing.
+You may then wish to move the bls\_mods folder to `~/.minetest/mods` or `~/.minetest/worlds/NAME/worldmods` for testing. Example `minetest.conf` and `world.mt` files have been provided, though these may be out of date. You should copy these to the appropriate locations.
 
 Updating your bls\_mods repo
 ============================
