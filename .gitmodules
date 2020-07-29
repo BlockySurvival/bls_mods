@@ -367,3 +367,6 @@
 [submodule "minetest-caverealms"]
 	path = caverealms
 	url = https://github.com/HeroOfTheWinds/minetest-caverealms.git
+[submodule "aqua_farming"]
+	path = aqua_farming
+	url = https://github.com/acmgit/aqua_farming
