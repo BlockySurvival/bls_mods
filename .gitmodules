@@ -372,4 +372,4 @@
 	url = https://github.com/acmgit/aqua_farming
 [submodule "just_the_kits"]
 	path = just_the_kits
-	url = git@github.com:BlockySurvival/just_the_kits.git
+	url = https://github.com/BlockySurvival/just_the_kits.git
