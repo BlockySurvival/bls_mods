@@ -135,7 +135,7 @@
 	url = https://github.com/BlockySurvival/locks.git
 [submodule "lurkcoin"]
 	path = lurkcoin
-	url = https://git.minetest.land/luk3yx/lurkcoin.git
+	url = https://github.com/luk3yx/minetest-lurkcoin.git
 [submodule "mailbox"]
 	path = mailbox
 	url = https://github.com/BlockySurvival/mailbox.git
@@ -234,7 +234,7 @@
 	url = https://github.com/fluxionary/minetest-smartshop.git
 [submodule "snippets"]
 	path = snippets
-	url = https://git.minetest.land/luk3yx/snippets.git
+	url = https://github.com/luk3yx/minetest-snippets.git
 [submodule "spawn_command"]
 	path = spawn_command
 	url = https://github.com/BlockySurvival/spawn_command.git
