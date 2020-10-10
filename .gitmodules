@@ -370,6 +370,3 @@
 [submodule "aqua_farming"]
 	path = aqua_farming
 	url = https://github.com/acmgit/aqua_farming
-[submodule "just_the_kits"]
-	path = just_the_kits
-	url = https://github.com/BlockySurvival/just_the_kits.git
