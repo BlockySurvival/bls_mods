@@ -373,3 +373,9 @@
 [submodule "incrediblemaze"]
 	path = incrediblemaze
 	url = https://github.com/BlockySurvival/incrediblemaze.git
+[submodule "swaz"]
+	path = swaz
+	url = https://github.com/runsy/swaz.git
+[submodule "rainf"]
+	path = rainf
+	url = https://github.com/runsy/rainf.git
