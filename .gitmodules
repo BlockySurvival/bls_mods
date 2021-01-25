@@ -121,9 +121,6 @@
 [submodule "jails"]
 	path = jails
 	url = https://github.com/ShadowNinja/jails.git
-[submodule "led_marquee"]
-	path = led_marquee
-	url = https://gitlab.com/VanessaE/led_marquee.git
 [submodule "letters"]
 	path = letters
 	url = https://github.com/minetest-mods/letters.git
@@ -327,7 +324,7 @@
 	url = https://github.com/bousket/unified_inventory_plus.git
 [submodule "cucina_vegana"]
 	path = cucina_vegana
-	url = https://github.com/fluxionary/minetest-cucina_vegana.git
+	url = https://github.com/BlockySurvival/cucina_vegana.git
 [submodule "unifiedbricks"]
 	path = unifiedbricks
 	url = https://github.com/minetest-mods/unifiedbricks.git
@@ -351,7 +348,7 @@
 	url = https://github.com/BlockySurvival/rotation.git
 [submodule "hook"]
 	path = hook
-	url = https://github.com/fluxionary/hook.git
+	url = https://github.com/BlockySurvival/hook.git
 [submodule "cool_trees"]
 	path = cool_trees
 	url = https://github.com/BlockySurvival/cool_trees.git
