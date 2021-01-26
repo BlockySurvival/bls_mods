@@ -376,3 +376,6 @@
 [submodule "rainf"]
 	path = rainf
 	url = https://github.com/runsy/rainf.git
+[submodule "scout_custom"]
+	path = scout_custom
+	url = https://github.com/TankTrooper/scout_custom.git
