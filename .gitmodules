@@ -379,3 +379,6 @@
 [submodule "scout_custom"]
 	path = scout_custom
 	url = https://github.com/TankTrooper/scout_custom.git
+[submodule "bigdoors"]
+	path = bigdoors
+	url = https://github.com/oversword/bigdoors.git
