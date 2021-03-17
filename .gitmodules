@@ -318,7 +318,7 @@
 	url = https://github.com/minetest-mods/woodcutting.git
 [submodule "digiline-stuff"]
 	path = digiline_stuff
-	url = https://github.com/jogag/digiline-stuff.git
+	url = https://github.com/BlockySurvival/digiline-stuff.git
 [submodule "unified_inventory_plus"]
 	path = unified_inventory_plus
 	url = https://github.com/bousket/unified_inventory_plus.git
