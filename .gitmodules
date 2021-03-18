@@ -387,5 +387,5 @@
 	url = https://github.com/luk3yx/minetest-formspec_ast.git
 [submodule "fs51"]
 	path = fs51
-	url = https://github.com/luk3yx/minetest-fs51.git
+	url = https://gitlab.com/luk3yx/minetest-fs51.git
 	branch = main
