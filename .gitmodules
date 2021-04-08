@@ -382,6 +382,7 @@
 [submodule "bigdoors"]
 	path = bigdoors
 	url = https://github.com/oversword/bigdoors.git
+	branch = main
 [submodule "formspec_ast"]
 	path = formspec_ast
 	url = https://github.com/luk3yx/minetest-formspec_ast.git
