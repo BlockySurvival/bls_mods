@@ -390,3 +390,6 @@
 	path = fs51
 	url = https://github.com/luk3yx/minetest-fs51.git
 	branch = main
+[submodule "notify"]
+	path = notify
+	url = https://github.com/oversword/notify.git
