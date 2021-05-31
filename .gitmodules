@@ -382,6 +382,7 @@
 [submodule "bigdoors"]
 	path = bigdoors
 	url = https://github.com/oversword/bigdoors.git
+	branch = main
 [submodule "formspec_ast"]
 	path = formspec_ast
 	url = https://github.com/luk3yx/minetest-formspec_ast.git
@@ -389,3 +390,6 @@
 	path = fs51
 	url = https://github.com/luk3yx/minetest-fs51.git
 	branch = main
+[submodule "notify"]
+	path = notify
+	url = https://github.com/oversword/notify.git
