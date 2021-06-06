@@ -330,7 +330,7 @@
 	url = https://github.com/minetest-mods/unifiedbricks.git
 [submodule "plantlife_modpack"]
 	path = plantlife_modpack
-	url = https://gitlab.com/VanessaE/plantlife_modpack.git
+	url = https://github.com/oversword/plantlife_modpack.git
 [submodule "soccer"]
 	path = soccer
 	url = https://github.com/kaeza/minetest-soccer
