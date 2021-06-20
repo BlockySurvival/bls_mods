@@ -297,7 +297,7 @@
 	url = https://github.com/BlockySurvival/desert_life.git
 [submodule "server_news"]
 	path = server_news
-	url = https://github.com/Ezhh/server_news.git
+	url = https://github.com/BlockySurvival/server_news.git
 [submodule "staff"]
 	path = staff
 	url = https://github.com/BlockySurvival/staff.git
