@@ -102,7 +102,7 @@
 	url = https://github.com/minetest-mods/intllib.git
 [submodule "invhack"]
 	path = invhack
-	url = https://github.com/salahzar/minetest-invhack.git
+	url = https://github.com/BlockySurvival/minetest-invhack.git
 [submodule "irc"]
 	path = irc
 	url = https://github.com/BlockySurvival/irc.git
