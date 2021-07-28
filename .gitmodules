@@ -396,3 +396,6 @@
 [submodule "quest"]
 	path = quest
 	url = https://github.com/andrewrunxiyu/quest.git
+[submodule "dispenser"]
+	path = dispenser
+	url = https://github.com/oversword/dispenser.git
