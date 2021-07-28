@@ -393,3 +393,6 @@
 [submodule "notify"]
 	path = notify
 	url = https://github.com/oversword/notify.git
+[submodule "quest"]
+	path = quest
+	url = https://github.com/andrewrunxiyu/quest.git
