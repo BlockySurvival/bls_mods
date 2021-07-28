@@ -279,7 +279,7 @@
 	url = https://github.com/ExeVirus/waterfalls.git
 [submodule "wielded_light"]
 	path = wielded_light
-	url = https://github.com/BlockySurvival/wielded_light.git
+	url = https://github.com/minetest-mods/wielded_light.git
 [submodule "worldedit"]
 	path = worldedit
 	url = https://github.com/Uberi/Minetest-WorldEdit.git
