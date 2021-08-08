@@ -33,7 +33,7 @@
 	url = https://github.com/BlockySurvival/bowlingball.git
 [submodule "bridger"]
 	path = bridger
-	url = https://github.com/v-rob/bridger.git
+	url = https://github.com/BlockySurvival/bridger.git
 [submodule "cblocks"]
 	path = cblocks
 	url = https://notabug.org/TenPlus1/cblocks.git
@@ -207,7 +207,7 @@
 	url = https://github.com/BlockySurvival/priv_roles.git
 [submodule "quartz"]
 	path = quartz
-	url = https://github.com/minetest-mods/quartz.git
+	url = https://github.com/BlockySurvival/quartz.git
 [submodule "replacer"]
 	path = replacer
 	url = https://github.com/BlockySurvival/replacer.git
