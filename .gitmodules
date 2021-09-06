@@ -225,7 +225,7 @@
 	url = https://github.com/D00Med/scifi_nodes.git
 [submodule "skinsdb"]
 	path = skinsdb
-	url = https://github.com/minetest-mods/skinsdb.git
+	url = https://github.com/BlockySurvival/skinsdb.git
 [submodule "smartshop"]
 	path = smartshop
 	url = https://github.com/fluxionary/minetest-smartshop.git
