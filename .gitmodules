@@ -396,3 +396,4 @@
 [submodule "dispenser"]
 	path = dispenser
 	url = https://github.com/oversword/dispenser.git
+	branch = main
