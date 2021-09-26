@@ -400,3 +400,4 @@
 [submodule "config"]
 	path = config
 	url = https://github.com/oversword/config.git
+	branch = main
