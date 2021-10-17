@@ -270,7 +270,7 @@
 	url = https://gitlab.com/VanessaE/unifieddyes.git
 [submodule "unified_inventory"]
 	path = unified_inventory
-	url = https://github.com/BlockySurvival/unified_inventory.git
+	url = https://github.com/minetest-mods/unified_inventory.git
 [submodule "verbana"]
 	path = verbana
 	url = https://github.com/fluxionary/minetest-verbana.git
