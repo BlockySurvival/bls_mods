@@ -156,10 +156,10 @@
 	url = https://github.com/minetest-mods/mesecons.git
 [submodule "mob_horse"]
 	path = mob_horse
-	url = https://notabug.org/TenPlus1/mob_horse
+	url = https://github.com/BlockySurvival/mob_horse.git
 [submodule "mobs_animal"]
 	path = mobs_animal
-	url = https://notabug.org/TenPlus1/mobs_animal
+	url = https://github.com/BlockySurvival/mobs_animal.git
 [submodule "mobs_redo"]
 	path = mobs_redo
 	url = https://github.com/BlockySurvival/mobs_redo.git
