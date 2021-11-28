@@ -12,7 +12,7 @@
 	url = https://notabug.org/TenPlus1/bakedclay
 [submodule "basic_materials"]
 	path = basic_materials
-	url = https://gitlab.com/VanessaE/basic_materials.git
+	url = https://github.com/mt-mods/basic_materials.git
 [submodule "BBQ"]
 	path = bbq
 	url = https://github.com/BlockySurvival/BBQ.git
@@ -90,7 +90,7 @@
 	url = https://github.com/BlockySurvival/holidays.git
 [submodule "homedecor_modpack"]
 	path = homedecor_modpack
-	url = https://gitlab.com/VanessaE/homedecor_modpack.git
+	url = https://github.com/mt-mods/homedecor_modpack.git
 [submodule "hot_air_balloons"]
 	path = hot_air_balloons
 	url = https://github.com/BlockySurvival/hot_air_balloons.git
