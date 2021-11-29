@@ -18,7 +18,7 @@
 	url = https://github.com/BlockySurvival/BBQ.git
 [submodule "biome_lib"]
 	path = biome_lib
-	url = https://gitlab.com/VanessaE/biome_lib.git
+	url = https://github.com/mt-mods/biome_lib.git
 [submodule "bls_custom"]
 	path = bls_custom
 	url = https://github.com/BlockySurvival/bls_custom.git
@@ -54,7 +54,7 @@
 	url = https://github.com/minetest-mods/cozy.git
 [submodule "currency"]
 	path = currency
-	url = https://github.com/BlockySurvival/currency.git
+	url = https://github.com/mt-mods/currency.git
 [submodule "digilines"]
 	path = digilines
 	url = https://github.com/minetest-mods/digilines.git
@@ -177,7 +177,7 @@
 	url = https://github.com/fluxionary/minetest-moreplants.git
 [submodule "moretrees"]
 	path = moretrees
-	url = https://gitlab.com/VanessaE/moretrees.git
+	url = https://github.com/mt-mods/moretrees.git
 [submodule "mydoors"]
 	path = mydoors
 	url = https://github.com/minetest-mods/mydoors.git
@@ -267,7 +267,7 @@
 	url = https://github.com/BlockySurvival/tubelib2.git
 [submodule "unifieddyes"]
 	path = unifieddyes
-	url = https://gitlab.com/VanessaE/unifieddyes.git
+	url = https://github.com/mt-mods/unifieddyes.git
 [submodule "unified_inventory"]
 	path = unified_inventory
 	url = https://github.com/minetest-mods/unified_inventory.git
@@ -330,7 +330,7 @@
 	url = https://github.com/minetest-mods/unifiedbricks.git
 [submodule "plantlife_modpack"]
 	path = plantlife_modpack
-	url = https://gitlab.com/VanessaE/plantlife_modpack.git
+	url = https://github.com/mt-mods/plantlife_modpack.git
 [submodule "soccer"]
 	path = soccer
 	url = https://github.com/kaeza/minetest-soccer
