@@ -183,7 +183,7 @@
 	url = https://github.com/minetest-mods/mydoors.git
 [submodule "nether"]
 	path = nether
-	url = https://github.com/BlockySurvival/nether.git
+	url = https://github.com/BlockySurvival/nether_new.git
 [submodule "nsspf"]
 	path = nsspf
 	url = https://github.com/BlockySurvival/nsspf.git
