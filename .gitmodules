@@ -195,7 +195,7 @@
 	url = https://cheapiesystems.com/git/plasticbox/
 [submodule "playeranim"]
 	path = playeranim
-	url = https://github.com/minetest-mods/playeranim.git
+	url = https://github.com/BlockySurvival/playeranim.git
 [submodule "player_monoids"]
 	path = player_monoids
 	url = https://github.com/minetest-mods/player_monoids.git
