@@ -404,3 +404,6 @@
 [submodule "visible_sneak"]
 	path = visible_sneak
 	url = https://github.com/BlockySurvival/visible_sneak.git
+[submodule "controls"]
+	path = controls
+	url = https://github.com/mt-mods/controls.git
