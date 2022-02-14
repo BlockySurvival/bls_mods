@@ -261,7 +261,7 @@
 	url = https://github.com/BlockySurvival/titanium.git
 [submodule "travelnet"]
 	path = travelnet
-	url = https://github.com/BlockySurvival/travelnet.git
+	url = https://github.com/mt-mods/travelnet.git
 [submodule "tubelib2"]
 	path = tubelib2
 	url = https://github.com/BlockySurvival/tubelib2.git
