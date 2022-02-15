@@ -407,3 +407,6 @@
 [submodule "visible_sneak"]
 	path = visible_sneak
 	url = https://github.com/BlockySurvival/visible_sneak.git
+[submodule "minetest-item_magnet"]
+	path = minetest-item_magnet
+	url = https://github.com/BlockySurvival/minetest-item_magnet.git
