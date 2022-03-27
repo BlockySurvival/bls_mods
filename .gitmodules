@@ -410,3 +410,6 @@
 [submodule "minetest-item_magnet"]
 	path = minetest-item_magnet
 	url = https://github.com/BlockySurvival/minetest-item_magnet.git
+[submodule "robot"]
+	path = robot
+	url = https://github.com/oversword/robot.git
