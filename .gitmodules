@@ -413,3 +413,6 @@
 [submodule "robot"]
 	path = robot
 	url = https://github.com/oversword/robot.git
+[submodule "tnt_revamped"]
+	path = tnt_revamped
+	url = https://gitlab.com/Coder12a/tnt_revamped.git
