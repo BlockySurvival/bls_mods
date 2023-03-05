@@ -6,7 +6,7 @@
 	url = https://notabug.org/TenPlus1/ambience.git
 [submodule "areasprotector"]
 	path = areasprotector
-	url = https://github.com/BlockySurvival/areasprotector.git
+	url = https://github.com/mt-historical/areasprotector.git
 [submodule "bakedclay"]
 	path = bakedclay
 	url = https://notabug.org/TenPlus1/bakedclay
@@ -15,7 +15,7 @@
 	url = https://github.com/mt-mods/basic_materials.git
 [submodule "BBQ"]
 	path = bbq
-	url = https://github.com/BlockySurvival/BBQ.git
+	url = https://github.com/mt-historical/BBQ.git
 [submodule "biome_lib"]
 	path = biome_lib
 	url = https://github.com/mt-mods/biome_lib.git
@@ -84,7 +84,7 @@
 	url = https://github.com/BlockySurvival/goldtools.git
 [submodule "hangglider"]
 	path = hangglider
-	url = https://github.com/BlockySurvival/hangglider.git
+	url = https://github.com/mt-historical/hangglider.git
 [submodule "holidays"]
 	path = holidays
 	url = https://github.com/BlockySurvival/holidays.git
@@ -93,7 +93,7 @@
 	url = https://github.com/mt-mods/homedecor_modpack.git
 [submodule "hot_air_balloons"]
 	path = hot_air_balloons
-	url = https://github.com/BlockySurvival/hot_air_balloons.git
+	url = https://github.com/mt-historical/hot_air_balloons.git
 [submodule "instruments_pack"]
 	path = instruments_pack
 	url = https://github.com/BlockySurvival/instruments_pack.git
@@ -126,7 +126,7 @@
 	url = https://github.com/minetest-mods/letters.git
 [submodule "locked_travelnet"]
 	path = locked_travelnet
-	url = https://github.com/BlockySurvival/locked_travelnet.git
+	url = https://github.com/mt-historical/locked_travelnet.git
 [submodule "locks"]
 	path = locks
 	url = https://github.com/BlockySurvival/locks.git
@@ -150,7 +150,7 @@
 	url = https://github.com/entuland/lua-matrix.git
 [submodule "memorandum"]
 	path = memorandum
-	url = https://github.com/BlockySurvival/memorandum.git
+	url = https://github.com/mt-historical/memorandum.git
 [submodule "mesecons"]
 	path = mesecons
 	url = https://github.com/BlockySurvival/mesecons.git
@@ -186,7 +186,7 @@
 	url = https://github.com/BlockySurvival/nether_new.git
 [submodule "nsspf"]
 	path = nsspf
-	url = https://github.com/BlockySurvival/nsspf.git
+	url = https://github.com/mt-historical/nsspf.git
 [submodule "other_worlds"]
 	path = other_worlds
 	url = https://github.com/BlockySurvival/other_worlds.git
@@ -258,7 +258,7 @@
 	url = https://github.com/BlockySurvival/teleport-request.git
 [submodule "titanium"]
 	path = titanium
-	url = https://github.com/BlockySurvival/titanium.git
+	url = https://github.com/mt-historical/titanium.git
 [submodule "travelnet"]
 	path = travelnet
 	url = https://github.com/mt-mods/travelnet.git
@@ -309,7 +309,7 @@
 	url = https://gitlab.com/h2mm/bike.git
 [submodule "redtrees"]
 	path = redtrees
-	url = https://github.com/BlockySurvival/redtrees.git
+	url = https://github.com/mt-historical/redtrees.git
 [submodule "MoreMesecons"]
 	path = more_mesecons
 	url = https://github.com/BlockySurvival/MoreMesecons.git
@@ -339,7 +339,7 @@
 	url = https://github.com/BlockySurvival/invsaw.git
 [submodule "artdeco"]
 	path = artdeco
-	url = https://github.com/BlockySurvival/artdeco.git
+	url = https://github.com/mt-historical/artdeco.git
 [submodule "minetest_orienteering"]
 	path = orienteering
 	url = https://github.com/BlockySurvival/orienteering.git
@@ -360,7 +360,7 @@
 	url = https://github.com/damocles-minetest/epic.git
 [submodule "real_suffocation"]
 	path = real_suffocation
-	url = https://github.com/BlockySurvival/real_suffocation.git
+	url = https://github.com/mt-historical/real_suffocation.git
 [submodule "minetest-caverealms"]
 	path = caverealms
 	url = https://github.com/HeroOfTheWinds/minetest-caverealms.git
