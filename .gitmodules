@@ -81,7 +81,7 @@
 	url = https://github.com/v-rob/glass_stained.git
 [submodule "goldtools"]
 	path = goldtools
-	url = https://github.com/BlockySurvival/goldtools.git
+	url = https://github.com/mt-historical/goldtools.git
 [submodule "hangglider"]
 	path = hangglider
 	url = https://github.com/mt-mods/hangglider.git
