@@ -84,7 +84,7 @@
 	url = https://github.com/BlockySurvival/goldtools.git
 [submodule "hangglider"]
 	path = hangglider
-	url = https://github.com/mt-historical/hangglider.git
+	url = https://github.com/mt-mods/hangglider.git
 [submodule "holidays"]
 	path = holidays
 	url = https://github.com/BlockySurvival/holidays.git
