@@ -3,13 +3,13 @@
 	url = https://github.com/minetest-mods/3d_armor.git
 [submodule "ambience"]
 	path = ambience
-	url = https://notabug.org/TenPlus1/ambience.git
+	url = https://codeberg.org/TenPlus1/ambience.git
 [submodule "areasprotector"]
 	path = areasprotector
 	url = https://github.com/mt-historical/areasprotector.git
 [submodule "bakedclay"]
 	path = bakedclay
-	url = https://notabug.org/TenPlus1/bakedclay
+	url = https://codeberg.org/TenPlus1/bakedclay
 [submodule "basic_materials"]
 	path = basic_materials
 	url = https://github.com/mt-mods/basic_materials.git
@@ -24,7 +24,7 @@
 	url = https://github.com/BlockySurvival/bls_custom.git
 [submodule "bonemeal"]
 	path = bonemeal
-	url = https://notabug.org/TenPlus1/bonemeal
+	url = https://codeberg.org/TenPlus1/bonemeal
 [submodule "boost_cart"]
 	path = boost_cart
 	url = https://github.com/SmallJoker/boost_cart.git
@@ -36,7 +36,7 @@
 	url = https://github.com/BlockySurvival/bridger.git
 [submodule "cblocks"]
 	path = cblocks
-	url = https://notabug.org/TenPlus1/cblocks.git
+	url = https://codeberg.org/TenPlus1/cblocks.git
 [submodule "ChatCmdBuilder"]
 	path = ChatCmdBuilder
 	url = https://github.com/rubenwardy/ChatCmdBuilder.git
