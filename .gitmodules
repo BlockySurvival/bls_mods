@@ -416,3 +416,6 @@
 [submodule "tnt_revamped"]
 	path = tnt_revamped
 	url = https://gitlab.com/Coder12a/tnt_revamped.git
+[submodule "mesecons_debug"]
+	path = mesecons_debug
+	url = https://github.com/minetest-monitoring/mesecons_debug
