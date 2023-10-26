@@ -419,3 +419,9 @@
 [submodule "mesecons_debug"]
 	path = mesecons_debug
 	url = https://github.com/minetest-monitoring/mesecons_debug
+[submodule "sound_api"]
+	path = sound_api
+	url = https://github.com/mt-mods/sound_api.git
+[submodule "home_workshop_modpack"]
+	path = home_workshop_modpack
+	url = https://github.com/mt-mods/home_workshop_modpack.git
