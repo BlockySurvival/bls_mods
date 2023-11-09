@@ -363,7 +363,7 @@
 	url = https://github.com/mt-historical/real_suffocation.git
 [submodule "minetest-caverealms"]
 	path = caverealms
-	url = https://github.com/HeroOfTheWinds/minetest-caverealms.git
+	url = https://github.com/mt-historical/caverealms.git
 [submodule "aqua_farming"]
 	path = aqua_farming
 	url = https://github.com/acmgit/aqua_farming
