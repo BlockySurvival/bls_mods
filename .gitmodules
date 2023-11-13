@@ -422,3 +422,6 @@
 [submodule "home_workshop_modpack"]
 	path = home_workshop_modpack
 	url = https://github.com/mt-mods/home_workshop_modpack.git
+[submodule "digiscreen"]
+	path = digiscreen
+	url = https://cheapiesystems.com/git/digiscreen
