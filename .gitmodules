@@ -425,3 +425,6 @@
 [submodule "digiscreen"]
 	path = digiscreen
 	url = https://cheapiesystems.com/git/digiscreen
+[submodule "verbana_gui"]
+	path = verbana_gui
+	url = https://github.com/luk3yx/minetest-verbana_gui.git
