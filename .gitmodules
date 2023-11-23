@@ -428,3 +428,6 @@
 [submodule "verbana_gui"]
 	path = verbana_gui
 	url = https://github.com/luk3yx/minetest-verbana_gui.git
+[submodule "flow"]
+	path = flow
+	url = https://github.com/luk3yx/minetest-flow.git
