@@ -345,7 +345,7 @@
 	url = https://github.com/BlockySurvival/orienteering.git
 [submodule "rotation"]
 	path = rotation
-	url = https://github.com/BlockySurvival/rotation.git
+	url = https://github.com/mt-historical/rotation.git
 [submodule "hook"]
 	path = hook
 	url = https://github.com/BlockySurvival/hook.git
