@@ -30,7 +30,7 @@
 	url = https://github.com/SmallJoker/boost_cart.git
 [submodule "bowlingball"]
 	path = bowlingball
-	url = https://github.com/BlockySurvival/bowlingball.git
+	url = https://github.com/mt-historical/bowlingball.git
 [submodule "bridger"]
 	path = bridger
 	url = https://github.com/BlockySurvival/bridger.git
