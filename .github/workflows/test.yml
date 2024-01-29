@@ -47,6 +47,8 @@ jobs:
 
     - name: test
       run: docker-compose up --exit-code-from testserver
+      env:
+        ENGINE_IMAGE: ${{ matrix.ENGINE_IMAGE }}
 
     - name: Upload nodenames.txt
       if: ${{ endsWith(matrix.ENGINE_IMAGE, '5.7.0') }}
