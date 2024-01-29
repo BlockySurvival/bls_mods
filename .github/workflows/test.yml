@@ -1,0 +1,56 @@
+# Copied from https://github.com/mt-mods/dreambuilder_game
+
+name: test
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      matrix:
+        ENGINE_IMAGE:
+          - registry.gitlab.com/minetest/minetest/server:5.7.0
+          - ghcr.io/minetest-hosting/minetest-docker:5.8.0
+          - ""
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        submodules: recursive
+
+    - uses: actions/checkout@v4
+      with:
+        repository: minetest/minetest_game
+        ref: "5.7.0"
+        path: .REPOS/minetest_game
+
+    - uses: actions/checkout@v4
+      with:
+        repository: BuckarooBanzay/mtt
+        path: mtt
+
+    - uses: actions/checkout@v4
+      with:
+        repository: BlockySurvival/bls_test_nodenames
+        path: bls_test_nodenames
+
+    - name: Update minetest.conf and world.mt
+      run: |-
+        echo 'load_mod_mtt = true' >> world.mt
+        echo 'load_mod_bls_test_nodenames = true' >> world.mt
+        echo 'mtt_enable = true' >> minetest.conf
+        echo 'mtt_export_nodenames = true' >> minetest.conf
+        touch nodenames.txt
+
+    - name: test
+      run: docker-compose up --exit-code-from testserver
+
+    - name: Upload nodenames.txt
+      if: ${{ endsWith(matrix.ENGINE_IMAGE, '5.7.0') }}
+      uses: actions/upload-artifact@v4
+      with:
+        name: nodenames
+        path: nodenames.txt

@@ -1,0 +1,21 @@
+# Copied from https://github.com/mt-mods/dreambuilder_game
+
+version: "3.6"
+
+services:
+  testserver:
+    image: ${ENGINE_IMAGE:-ghcr.io/minetest-hosting/minetest-docker:5.8.0}
+
+    entrypoint: "minetestserver --config /minetest.conf"
+    user: root
+    volumes:
+      - "./:/root/.minetest/mods/"
+      - "./world.mt:/root/.minetest/worlds/world/world.mt"
+      - "./minetest.conf:/minetest.conf"
+      - "./.REPOS/minetest_game/:/root/.minetest/games/minetest_game/"
+      - "world:/root/.minetest/worlds/world"
+      - "./nodenames.txt:/root/.minetest/worlds/world/nodenames.txt"
+
+
+volumes:
+  world: {}
