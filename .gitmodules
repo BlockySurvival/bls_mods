@@ -372,10 +372,10 @@
 	url = https://github.com/BlockySurvival/incrediblemaze.git
 [submodule "swaz"]
 	path = swaz
-	url = https://github.com/runsy/swaz.git
+	url = https://github.com/BlockySurvival/swaz.git
 [submodule "rainf"]
 	path = rainf
-	url = https://github.com/runsy/rainf.git
+	url = https://github.com/BlockySurvival/rainf.git
 [submodule "scout_custom"]
 	path = scout_custom
 	url = https://github.com/TankTrooper/scout_custom.git
