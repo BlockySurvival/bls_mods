@@ -213,7 +213,7 @@
 	url = https://github.com/BlockySurvival/replacer.git
 [submodule "REPOS/terumet"]
 	path = .REPOS/terumet
-	url = https://github.com/Terumoc/terumet.git
+	url = https://github.com/BlockySurvival/terumet.git
 [submodule "rhotator"]
 	path = rhotator
 	url = https://github.com/entuland/rhotator.git
