@@ -45,7 +45,7 @@ jobs:
         touch nodenames.txt
 
     - name: test
-      run: docker-compose up --exit-code-from testserver
+      run: docker compose up --exit-code-from testserver
       env:
         ENGINE_IMAGE: ${{ matrix.ENGINE_IMAGE }}
 
