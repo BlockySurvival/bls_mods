@@ -12,6 +12,7 @@ load_mod_3d_armor_stand = true
 load_mod_3d_armor_ui = true
 load_mod_3dmushrooms = true
 load_mod_along_shore = true
+load_mod_alpha_workaround = true
 load_mod_ambience = true
 load_mod_aqua_farming = true
 load_mod_areas = true

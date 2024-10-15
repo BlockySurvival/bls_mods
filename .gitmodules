@@ -431,3 +431,6 @@
 [submodule "flow"]
 	path = flow
 	url = https://github.com/luk3yx/minetest-flow.git
+[submodule "alpha_workaround"]
+	path = alpha_workaround
+	url = https://github.com/C-C-Minetest-Server/alpha_workaround.git
