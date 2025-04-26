@@ -253,6 +253,7 @@ load_mod_ontime_clocks = true
 load_mod_orienteering = true
 load_mod_other_worlds = true
 load_mod_palm = true
+load_mod_physics_override_legacy_compat = true
 load_mod_pineapple = true
 load_mod_plasticbox = true
 load_mod_player_monoids = true

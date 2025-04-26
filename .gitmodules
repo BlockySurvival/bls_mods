@@ -437,3 +437,6 @@
 [submodule "character_anim"]
 	path = character_anim
 	url = https://github.com/appgurueu/character_anim.git
+[submodule "physics_override_legacy_compat"]
+	path = physics_override_legacy_compat
+	url = https://github.com/mt-historical/phyics_override_legacy_compat.git
