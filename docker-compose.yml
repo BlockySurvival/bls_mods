@@ -4,9 +4,9 @@ version: "3.6"
 
 services:
   testserver:
-    image: ${ENGINE_IMAGE:-ghcr.io/minetest-hosting/minetest-docker:5.8.0}
+    image: ${ENGINE_IMAGE}
 
-    entrypoint: "minetestserver --config /minetest.conf"
+    entrypoint: "luantiserver --config /minetest.conf"
     user: root
     volumes:
       - "./:/root/.minetest/mods/"
