@@ -193,9 +193,6 @@
 [submodule "plasticbox"]
 	path = plasticbox
 	url = https://cheapiesystems.com/git/plasticbox/
-[submodule "playeranim"]
-	path = playeranim
-	url = https://github.com/BlockySurvival/playeranim.git
 [submodule "player_monoids"]
 	path = player_monoids
 	url = https://github.com/minetest-mods/player_monoids.git
@@ -434,3 +431,9 @@
 [submodule "alpha_workaround"]
 	path = alpha_workaround
 	url = https://github.com/C-C-Minetest-Server/alpha_workaround.git
+[submodule "modlib"]
+	path = modlib
+	url = https://github.com/appgurueu/modlib.git
+[submodule "character_anim"]
+	path = character_anim
+	url = https://github.com/appgurueu/character_anim.git
