@@ -409,7 +409,7 @@
 	url = https://github.com/BlockySurvival/minetest-item_magnet.git
 [submodule "robot"]
 	path = robot
-	url = https://github.com/BlockySurvival/robot.git
+	url = https://github.com/oversword/robot.git
 [submodule "mesecons_debug"]
 	path = mesecons_debug
 	url = https://github.com/minetest-monitoring/mesecons_debug
