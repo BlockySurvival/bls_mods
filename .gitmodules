@@ -57,7 +57,7 @@
 	url = https://github.com/mt-mods/currency.git
 [submodule "digilines"]
 	path = digilines
-	url = https://github.com/minetest-mods/digilines.git
+	url = https://github.com/oversword/digilines.git
 [submodule "digistuff"]
 	path = digistuff
 	url = https://github.com/mt-mods/digistuff.git
